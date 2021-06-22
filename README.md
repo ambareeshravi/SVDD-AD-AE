@@ -5,3 +5,5 @@ Implementation for the paper Titled "AutoEncoder regularization using Support Ve
 Paper Authors: Ambareesh Ravi, Fakhri Karray
 
 Submitted to IEEE SMC2021
+
+**Use the repo https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection instead**
